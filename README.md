@@ -4,7 +4,7 @@
  | --------------          | ------
  | misc/kcehc-ytinas | 1/1
  | web/jsonquiz | 105/105
- | forensics/whack-a-frog | 140/140
+ | [forensics/whack-a-frog](https://github.com/LeonGurin/corCTF-2022/tree/main/whack-a-frog) | 105/105
 
 # Competition Results:
 * **Scored:** XXX points
