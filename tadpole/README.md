@@ -5,7 +5,7 @@
 tadpoles only know the alphabet up to b... how will they ever know what p is?
 
 
-_Downloads_ [tadpole.py]() [output.txt]()
+_Downloads_ [tadpole.py](https://github.com/LeonGurin/corCTF-2022/blob/main/tadpole/tadpole.py) [output.txt](https://github.com/LeonGurin/corCTF-2022/blob/main/tadpole/output.txt)
 ___
 
 Looking at the code and reinterpreting it, we need to find `p`.
