@@ -3,11 +3,12 @@
  | Challenge Name          | Points
  | --------------          | ------
  | kcehc-ytinas | 1/1
- | jsonquiz | 105/105
- | [whack-a-frog](https://github.com/LeonGurin/corCTF-2022/tree/main/whack-a-frog) | 105/105
- | [tadpole](https://github.com/LeonGurin/corCTF-2022/tree/main/tadpole)
+ | jsonquiz (solved by my team) | 104/104
+ | [whack-a-frog](https://github.com/LeonGurin/corCTF-2022/tree/main/whack-a-frog) | 118/118
+ | [tadpole](https://github.com/LeonGurin/corCTF-2022/tree/main/tadpole) | 109/109
+ | [survey](https://github.com/LeonGurin/corCTF-2022/tree/main/survey) | 1/1
 
 # Competition Results:
-* **Scored:** XXX points
-* **Placed:** XXX place
+* **Scored:** 333 points
+* **Placed:** 222 place
 
