@@ -6,7 +6,7 @@
  | jsonquiz (solved by my team) | 104/104
  | [whack-a-frog](https://github.com/LeonGurin/corCTF-2022/tree/main/whack-a-frog) | 118/118
  | [tadpole](https://github.com/LeonGurin/corCTF-2022/tree/main/tadpole) | 109/109
- | [survey](https://github.com/LeonGurin/corCTF-2022/tree/main/survey) | 1/1
+ | [survey] | 1/1
 
 # Competition Results:
 * **Scored:** 333 points
